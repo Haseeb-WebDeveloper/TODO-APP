@@ -22,4 +22,4 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/PLanit.git
+   git clone https://github.com/Haseeb-WebDeveloper/TODO-APP.git
